@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 name: CICD Pipeline
+=======
+name: CICD Pipeline CLOUD COMPUTING PROJECTs
+>>>>>>> 45822196815ebffe3f3d6e849abd94df37156d38
 
 on:
   push:

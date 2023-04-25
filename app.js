@@ -8,7 +8,11 @@ app.get("/", (req, res) => {
   // Sending This is the home page! in the page
   res
     .status(200)
+<<<<<<< HEAD
     .send(`HELLO AKSTYLES!!!`);
+=======
+    .send(`HELLO Sir! atharva this side !`);
+>>>>>>> 45822196815ebffe3f3d6e849abd94df37156d38
 });
 
 // Listening to the port 
