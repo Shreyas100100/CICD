@@ -8,7 +8,7 @@ app.get("/", (req, res) => {
   // Sending This is the home page! in the page
   res
     .status(200)
-    .send(`HELLO WORLD!`);
+    .send(`HELLO AWS!`);
 });
 
 // Listening to the port 
